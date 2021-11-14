@@ -1,0 +1,14 @@
+.data-wrapper {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 300px;
+    top: 30px;
+    background-color: rgb(196, 193, 193);
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.data-row {
+    padding: 10px;
+}

@@ -1,0 +1,13 @@
+.input-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.input {
+    padding: 5px 10px;
+}
+
+.submit-button {
+    padding: 5px 10px;
+    margin-left: 10px;
+}

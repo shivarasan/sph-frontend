@@ -1,0 +1,37 @@
+.table-wrapper {
+    margin: 30px;
+    width: 80%;
+}
+
+.table-heading {
+    display: flex;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 1px solid #ddd5d5;
+    background-color: gainsboro;
+    text-transform: lowercase;
+}
+
+.table-data {
+    margin-top: 40px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.table-row {
+    display: flex;
+}
+
+.column {
+    width: 20%;
+}
+
+.data-column {
+    width: 20%;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.table-row:hover {
+    background-color: rgb(134, 250, 159);
+}
